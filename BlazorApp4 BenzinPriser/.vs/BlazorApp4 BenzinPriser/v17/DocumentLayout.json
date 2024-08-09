@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Ellyas\\Documents\\GitHub\\tomtemplateapi-donzazi\\BlazorApp4 BenzinPriser\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A8D76DD-E14A-4DB6-A2FD-035E041FBDAC}|BlazorApp4 BenzinPriser\\BlazorApp4 BenzinPriser.csproj|c:\\users\\ellyas\\documents\\github\\tomtemplateapi-donzazi\\blazorapp4 benzinpriser\\blazorapp4 benzinpriser\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A8D76DD-E14A-4DB6-A2FD-035E041FBDAC}|BlazorApp4 BenzinPriser\\BlazorApp4 BenzinPriser.csproj|solutionrelative:blazorapp4 benzinpriser\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A8D76DD-E14A-4DB6-A2FD-035E041FBDAC}|BlazorApp4 BenzinPriser\\BlazorApp4 BenzinPriser.csproj|c:\\users\\ellyas\\documents\\github\\tomtemplateapi-donzazi\\blazorapp4 benzinpriser\\blazorapp4 benzinpriser\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1A8D76DD-E14A-4DB6-A2FD-035E041FBDAC}|BlazorApp4 BenzinPriser\\BlazorApp4 BenzinPriser.csproj|solutionrelative:blazorapp4 benzinpriser\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A8D76DD-E14A-4DB6-A2FD-035E041FBDAC}|BlazorApp4 BenzinPriser\\BlazorApp4 BenzinPriser.csproj|c:\\users\\ellyas\\documents\\github\\tomtemplateapi-donzazi\\blazorapp4 benzinpriser\\blazorapp4 benzinpriser\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A8D76DD-E14A-4DB6-A2FD-035E041FBDAC}|BlazorApp4 BenzinPriser\\BlazorApp4 BenzinPriser.csproj|solutionrelative:blazorapp4 benzinpriser\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,39 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\Ellyas\\Documents\\GitHub\\tomtemplateapi-donzazi\\BlazorApp4 BenzinPriser\\BlazorApp4 BenzinPriser\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "BlazorApp4 BenzinPriser\\Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\Ellyas\\Documents\\GitHub\\tomtemplateapi-donzazi\\BlazorApp4 BenzinPriser\\BlazorApp4 BenzinPriser\\Components\\_Imports.razor",
-              "RelativeToolTip": "BlazorApp4 BenzinPriser\\Components\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-09T09:47:13.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\Ellyas\\Documents\\GitHub\\tomtemplateapi-donzazi\\BlazorApp4 BenzinPriser\\BlazorApp4 BenzinPriser\\Components\\App.razor",
-              "RelativeDocumentMoniker": "BlazorApp4 BenzinPriser\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\Ellyas\\Documents\\GitHub\\tomtemplateapi-donzazi\\BlazorApp4 BenzinPriser\\BlazorApp4 BenzinPriser\\Components\\App.razor",
-              "RelativeToolTip": "BlazorApp4 BenzinPriser\\Components\\App.razor",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-09T09:15:21.208Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\Ellyas\\Documents\\GitHub\\tomtemplateapi-donzazi\\BlazorApp4 BenzinPriser\\BlazorApp4 BenzinPriser\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "BlazorApp4 BenzinPriser\\Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\Ellyas\\Documents\\GitHub\\tomtemplateapi-donzazi\\BlazorApp4 BenzinPriser\\BlazorApp4 BenzinPriser\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "BlazorApp4 BenzinPriser\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-09T08:36:41.868Z"
+              "WhenOpened": "2024-08-09T08:36:41.868Z",
+              "EditorCaption": ""
             }
           ]
         }

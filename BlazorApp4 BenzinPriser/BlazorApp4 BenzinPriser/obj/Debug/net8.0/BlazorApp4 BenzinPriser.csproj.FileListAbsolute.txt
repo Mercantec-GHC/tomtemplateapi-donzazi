@@ -28,3 +28,13 @@ C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\
 C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\BlazorApp4_BenzinPriser.pdb
 C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\BlazorApp4 BenzinPriser.genruntimeconfig.cache
 C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\ref\BlazorApp4_BenzinPriser.dll
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\bin\Debug\net8.0\Blazor-ApexCharts.dll
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\BlazorApp4 BenzinPriser.csproj.AssemblyReference.cache
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\BlazorAp.A81C0D8C.Up2Date

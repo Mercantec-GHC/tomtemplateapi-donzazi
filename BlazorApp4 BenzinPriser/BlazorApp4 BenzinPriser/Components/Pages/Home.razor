@@ -1,7 +1,9 @@
-﻿@page "/Home"
+﻿@page "/Home" 
 @rendermode InteractiveServer
 
+
 <PageTitle>Benzin Data</PageTitle>
+
 
 <h1>Benzin Data</h1>
 
@@ -26,8 +28,6 @@
             }
         </tbody>
     </table>
-
- 
 }
 
 @code {
@@ -42,7 +42,6 @@
         {
             var jsonString = await response.Content.ReadAsStringAsync();
             benzinPriser = System.Text.Json.JsonSerializer.Deserialize<List<BenzinPrisData>>(jsonString);
-            StateHasChanged(); // Opdater UI efter data er hentet
         }
     }
 
@@ -51,4 +50,5 @@
         public string Price { get; set; }
         public string Date { get; set; }
     }
+
 }

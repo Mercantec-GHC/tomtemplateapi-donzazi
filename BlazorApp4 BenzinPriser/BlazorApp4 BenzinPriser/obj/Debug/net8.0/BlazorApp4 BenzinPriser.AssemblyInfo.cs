@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorApp4_BenzinPriser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6323bcca2a6cf7c301402e0d4b2dd12eef1c4607")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9048a682653b7d2ead33902d4a8aed04e4c8405")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorApp4_BenzinPriser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorApp4_BenzinPriser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
