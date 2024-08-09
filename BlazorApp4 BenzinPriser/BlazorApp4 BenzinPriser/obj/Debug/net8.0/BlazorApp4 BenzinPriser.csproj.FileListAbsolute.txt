@@ -1,0 +1,30 @@
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\bin\Debug\net8.0\appsettings.json
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\bin\Debug\net8.0\BlazorApp4_BenzinPriser.staticwebassets.runtime.json
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\bin\Debug\net8.0\BlazorApp4_BenzinPriser.exe
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\bin\Debug\net8.0\BlazorApp4_BenzinPriser.deps.json
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\bin\Debug\net8.0\BlazorApp4_BenzinPriser.runtimeconfig.json
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\bin\Debug\net8.0\BlazorApp4_BenzinPriser.dll
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\bin\Debug\net8.0\BlazorApp4_BenzinPriser.pdb
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\BlazorApp4 BenzinPriser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\BlazorApp4 BenzinPriser.AssemblyInfoInputs.cache
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\BlazorApp4 BenzinPriser.AssemblyInfo.cs
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\BlazorApp4 BenzinPriser.csproj.CoreCompileInputs.cache
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\BlazorApp4_BenzinPriser.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\BlazorApp4 BenzinPriser.sourcelink.json
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\staticwebassets\msbuild.BlazorApp4_BenzinPriser.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorApp4_BenzinPriser.props
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp4_BenzinPriser.props
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorApp4_BenzinPriser.props
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\scopedcss\bundle\BlazorApp4_BenzinPriser.styles.css
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\scopedcss\projectbundle\BlazorApp4_BenzinPriser.bundle.scp.css
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\BlazorApp4_BenzinPriser.dll
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\refint\BlazorApp4_BenzinPriser.dll
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\BlazorApp4_BenzinPriser.pdb
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\BlazorApp4 BenzinPriser.genruntimeconfig.cache
+C:\Users\Ellyas\Documents\GitHub\tomtemplateapi-donzazi\BlazorApp4 BenzinPriser\BlazorApp4 BenzinPriser\obj\Debug\net8.0\ref\BlazorApp4_BenzinPriser.dll
